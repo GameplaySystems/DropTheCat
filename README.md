@@ -1,6 +1,6 @@
-# Drop The Man
+# Drop The Cat
 
-Drop The Man is a playable Unity puzzle prototype built on
+Drop The Cat is a playable Unity puzzle prototype built on
 [Puzzle Framework](https://github.com/GameplaySystem/PuzzleFramework). The player drags colored,
 multi-cell holes across a board, collects matching cats, fills each hole to its required capacity,
 and completes the level before an optional timer expires. The prototype is also the first concrete
@@ -70,7 +70,7 @@ that ownership boundary instead of exposing every repository dependency.
 
 ## Framework vs. Game-Specific Code
 
-| Reusable Puzzle Framework | Drop The Man |
+| Reusable Puzzle Framework | Drop The Cat |
 | --- | --- |
 | grid coordinates, board cells, footprints, occupancy, walls | cats, holes, sockets, and capacity meaning |
 | drag/sweep/snap and structural clearance | matching-color collection and hole movement policy |
